@@ -1,7 +1,3 @@
-# TDARE-Analyzer-Evtx-To-Json (Assistant-Tool)
-
--------------------------------
-
 # TDARE EVTX to JSON Converter
 
 A lightweight Python command-line utility for converting Windows Event Log (`.evtx`) files into structured JSON.
