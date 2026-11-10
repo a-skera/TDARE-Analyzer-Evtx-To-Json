@@ -1,4 +1,4 @@
-# TDARE-Analyzer-Evtx-To-Json
+# TDARE-Analyzer-Evtx-To-Json (Assistant-Tool)
 
 -------------------------------
 
