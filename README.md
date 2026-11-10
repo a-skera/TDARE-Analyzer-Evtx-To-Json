@@ -156,10 +156,6 @@ Website: [TDARE Analyzer] (https://lightweight-tdare-analyzer.tdare-cys.workers.
 
 Contact: tdare.cys@gmail.com
 
-## License
+------------------------
 
-Specify the repository's chosen open-source license here before publishing.
-
----
-
-Developed by TDARE.
+Developed by TDARE Team.
