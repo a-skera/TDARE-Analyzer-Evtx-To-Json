@@ -150,7 +150,7 @@ Users remain responsible for handling exported logs securely, as they may contai
 
 ** TDARE - Analyzer is a lightweight demo of the main AI-SOC-Platform TDARE — Threat-Intelligence, Detection and Automatic Response integrated with Reverse Engineering. **
 
-Website: [TDARE Analyzer] (https://lightweight-tdare-analyzer.tdare-cys.workers.dev/)
+Demo-Website: [TDARE Analyzer] (https://lightweight-tdare-analyzer.tdare-cys.workers.dev/)
 
 Contact: tdare.cys@gmail.com
 
